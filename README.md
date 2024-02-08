@@ -80,6 +80,3 @@ To do so, complete the following steps:
 
 3. Save each of your models as an HDF5 file.
 
----
-
-Copyright 2022 2U. All Rights Reserved.
